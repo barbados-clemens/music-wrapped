@@ -1,0 +1,119 @@
+
+> music-wrapped@1.0.0 start
+> npx tsx ./really-wrapped.mts
+
+You listened to 51035.72 mins of music across 3562 tracks.
+
+
+Top Tracks by Time Listened
+
+1. 723.43 mins - CHIHIRO by Billie Eilish
+2. 587.75 mins - LUNCH by Billie Eilish
+3. 586.07 mins - euphoria by Kendrick Lamar
+4. 571.77 mins - Good Luck, Babe! by Chappell Roan
+5. 529.55 mins - BIRDS OF A FEATHER by Billie Eilish
+6. 443.22 mins - Like That by Future
+7. 423.09 mins - L’AMOUR DE MA VIE by Billie Eilish
+8. 421.19 mins - Espresso by Sabrina Carpenter
+9. 413.21 mins - obsessed by Olivia Rodrigo
+10. 398.25 mins - Feather by Sabrina Carpenter
+
+
+Top Artists by Time Listened
+
+1. 5180.68 mins - Billie Eilish
+2. 2826.22 mins - Sabrina Carpenter
+3. 2423.43 mins - Kendrick Lamar
+4. 2062.57 mins - Olivia Rodrigo
+5. 1952.23 mins - Charli xcx
+6. 1943.37 mins - Chappell Roan
+7. 1818.19 mins - Laufey
+8. 1512.3 mins - Ariana Grande
+9. 1453.12 mins - Sleep Token
+10. 1133.13 mins - Tyler, The Creator
+
+
+Top Albums by Time Listened
+
+1. 4288.39 mins - HIT ME HARD AND SOFT by Billie Eilish
+2. 1352.06 mins - BRAT by Charli xcx
+3. 1348.47 mins - The Rise and Fall of a Midwest Princess by Chappell Roan
+4. 1239.76 mins - Take Me Back To Eden by Sleep Token
+5. 1236.9 mins - Short n' Sweet by Sabrina Carpenter
+6. 1095.29 mins - eternal sunshine by Ariana Grande
+7. 954.56 mins - GUTS by Olivia Rodrigo
+8. 891.53 mins - CHROMAKOPIA by Tyler, The Creator
+9. 679.59 mins - Bewitched by Laufey
+10. 602.87 mins - Something To Give Each Other by Troye Sivan
+
+
+Top Days by Time Listened
+
+1. 860.34 mins - 2024-10-12
+2. 699.51 mins - 2024-09-03
+3. 645.43 mins - 2024-10-18
+4. 516.89 mins - 2024-01-04
+5. 462.27 mins - 2024-05-26
+6. 434.57 mins - 2024-01-05
+7. 418.42 mins - 2024-08-16
+8. 406.77 mins - 2024-05-24
+9. 395.98 mins - 2024-05-10
+10. 391.55 mins - 2024-10-20
+
+
+Top Tracks by Play Count
+
+1. 200 plays - LUNCH by Billie Eilish
+2. 162 plays - Good Luck, Babe! by Chappell Roan
+3. 158 plays - BIRDS OF A FEATHER by Billie Eilish
+4. 152 plays - obsessed by Olivia Rodrigo
+5. 149 plays - CHIHIRO by Billie Eilish
+6. 147 plays - Espresso by Sabrina Carpenter
+7. 132 plays - Feather by Sabrina Carpenter
+8. 129 plays - THE DINER by Billie Eilish
+9. 120 plays - Apple by Charli xcx
+10. 107 plays - SKINNY by Billie Eilish
+
+
+Top Artists by Play Count
+
+1. 1376 plays - Billie Eilish
+2. 981 plays - Sabrina Carpenter
+3. 756 plays - Charli xcx
+4. 685 plays - Olivia Rodrigo
+5. 573 plays - Chappell Roan
+6. 551 plays - Kendrick Lamar
+7. 549 plays - Laufey
+8. 497 plays - Ariana Grande
+9. 329 plays - Orville Peck
+10. 328 plays - Tyler, The Creator
+
+
+Top Albums by Play Count
+
+1. 1096 songs played from HIT ME HARD AND SOFT by Billie Eilish
+2. 536 songs played from BRAT by Charli xcx
+3. 434 songs played from Short n' Sweet by Sabrina Carpenter
+4. 405 songs played from The Rise and Fall of a Midwest Princess by Chappell Roan
+5. 378 songs played from eternal sunshine by Ariana Grande
+6. 298 songs played from GUTS by Olivia Rodrigo
+7. 248 songs played from CHROMAKOPIA by Tyler, The Creator
+8. 237 songs played from Take Me Back To Eden by Sleep Token
+9. 208 songs played from Bewitched by Laufey
+10. 203 songs played from Something To Give Each Other by Troye Sivan
+
+
+Top Days by Play Count
+
+1. 287 plays - 2024-10-12
+2. 221 plays - 2024-10-18
+3. 211 plays - 2024-09-03
+4. 165 plays - 2024-01-04
+5. 140 plays - 2024-01-05
+6. 137 plays - 2024-01-02
+7. 134 plays - 2024-08-16
+8. 130 plays - 2024-08-28
+9. 130 plays - 2024-05-26
+10. 121 plays - 2024-09-27
+
+
